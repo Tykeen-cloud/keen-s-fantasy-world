@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+F:/last/last.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/last/last.srcs/sim_1/new/test.v,1763212156,verilog,,,,id_sender_tb,,,,,,,,
+F:/last/last.srcs/sim_1/new/testbench.v,1762949310,verilog,,,,uart_receive_tb,,,,,,,,
+F:/last/last.srcs/sources_1/new/id_sender.v,1763465408,verilog,,F:/last/last.srcs/sim_1/new/test.v,,id_sender,,,,,,,,
+F:/last/last.srcs/sources_1/new/uart_recv.v,1763465296,verilog,,F:/last/last.srcs/sim_1/new/testbench.v,,uart_recv,,,,,,,,

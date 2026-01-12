@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+ Test case a5 start
+ Test case a5 passed
+
+ Test case 3c start
+ Test case 3c passed
+
+ Test case ff start
+ Test case ff passed
+
+ Test case 00 start
+ Test case 00 passed
+
+ Test case 5a start
+ Test case 5a passed
+
+All tests passed successfully!
+UART baud rate =        9600, freq divider =       10417
+$finish called at time : 7708675 ns : File "F:/state_machine1/state_machine.srcs/sim_1/new/testbench.v" Line 99

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tfgg484-1" LaunchTime="1761700289">
+  <File Type="ROUTE-PWR" Name="flow_light_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="flow_light.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="flow_light_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="flow_light_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="flow_light.msk"/>
+  <File Type="ROUTE-CLK" Name="flow_light_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="flow_light.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="flow_light_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="flow_light.bit"/>
+  <File Type="BG-DRC" Name="flow_light.drc"/>
+  <File Type="BG-BGN" Name="flow_light.bgn"/>
+  <File Type="BG-BIN" Name="flow_light.bin"/>
+  <File Type="BITSTR-RBT" Name="flow_light.rbt"/>
+  <File Type="BITSTR-NKY" Name="flow_light.nky"/>
+  <File Type="BITSTR-BMM" Name="flow_light_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="flow_light.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="flow_light_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="flow_light.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="flow_light.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-DRC" Name="flow_light_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="flow_light.hwdef"/>
+  <File Type="PLACE-IO" Name="flow_light_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="flow_light_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="flow_light_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="flow_light_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="flow_light_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="flow_light_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="flow_light_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="flow_light_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="flow_light_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="flow_light_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="flow_light_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="flow_light_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="flow_light_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="flow_light_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="flow_light_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="flow_light_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="flow_light_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="flow_light_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="flow_light_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="flow_light_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="flow_light_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="flow_light_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="flow_light_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="flow_light_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="flow_light_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="flow_light_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="flow_light_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="flow_light_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="flow_light_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="flow_light_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="flow_light_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="flow_light_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="flow_light_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="flow_light_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="flow_light_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="flow_light.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="flow_light_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="flow_light_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="flow_light.rcfi"/>
+  <File Type="CFI_FILE" Name="flow_light.cfi"/>
+  <File Type="RNPI_FILE" Name="flow_light.rnpi"/>
+  <File Type="NPI_FILE" Name="flow_light.npi"/>
+  <File Type="RBD_FILE" Name="flow_light.rbd"/>
+  <File Type="ROUTE-RQS" Name="flow_light_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="flow_light_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/flow_light.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="flow_light"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/pin.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

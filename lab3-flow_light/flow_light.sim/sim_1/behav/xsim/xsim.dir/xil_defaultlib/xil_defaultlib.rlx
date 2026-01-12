@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+F:/flow_light/flow_light.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/flow_light/flow_light.srcs/sim_1/new/testbench.v,1761702848,verilog,,,,testbench,,,,,,,,
+F:/flow_light/flow_light.srcs/sources_1/new/counter.v,1761702240,verilog,,F:/flow_light/flow_light.srcs/sources_1/new/flow_light.v,,counter,,,,,,,,
+F:/flow_light/flow_light.srcs/sources_1/new/flow_light.v,1761697262,verilog,,F:/flow_light/flow_light.srcs/sim_1/new/testbench.v,,flow_light,,,,,,,,

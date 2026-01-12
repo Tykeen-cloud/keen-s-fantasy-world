@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Oct 29 09:11:37 2025
+# Process ID: 3104
+# Current directory: F:/flow_light/flow_light.runs/impl_1
+# Command line: vivado.exe -log flow_light.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source flow_light.tcl -notrace
+# Log file: F:/flow_light/flow_light.runs/impl_1/flow_light.vdi
+# Journal file: F:/flow_light/flow_light.runs/impl_1\vivado.jou
+# Running On: 612-39, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 6, Host memory: 17056 MB
+#-----------------------------------------------------------
+source flow_light.tcl -notrace

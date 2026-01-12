@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+F:/state_machine1/state_machine.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/state_machine1/state_machine.srcs/sim_1/new/testbench.v,1762906852,verilog,,,,uart_send_tb,,,,,,,,
+F:/state_machine1/state_machine.srcs/sources_1/new/break_time.v,1762651850,verilog,,F:/state_machine1/state_machine.srcs/sources_1/new/uart_send.v,,break_time,,,,,,,,
+F:/state_machine1/state_machine.srcs/sources_1/new/string_send.v,1762650922,verilog,,,,string_send,,,,,,,,
+F:/state_machine1/state_machine.srcs/sources_1/new/uart_send.v,1762908002,verilog,,F:/state_machine1/state_machine.srcs/sim_1/new/testbench.v,,uart_send,,,,,,,,

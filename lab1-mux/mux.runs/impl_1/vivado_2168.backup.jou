@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Oct 15 09:39:04 2025
+# Process ID: 2168
+# Current directory: F:/mux/mux.runs/impl_1
+# Command line: vivado.exe -log mux.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux.tcl -notrace
+# Log file: F:/mux/mux.runs/impl_1/mux.vdi
+# Journal file: F:/mux/mux.runs/impl_1\vivado.jou
+# Running On: 612-34, OS: Windows, CPU Frequency: 3192 MHz, CPU Physical cores: 6, Host memory: 17056 MB
+#-----------------------------------------------------------
+source mux.tcl -notrace

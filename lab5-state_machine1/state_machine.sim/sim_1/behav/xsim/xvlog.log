@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/state_machine1/state_machine.srcs/sources_1/new/uart_send.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_send
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/state_machine1/state_machine.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_send_tb
